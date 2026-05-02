@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# Client-Server Robotic Remote Control System
+# lerobot_mujoco_teleop_data_collection
 </div>
 
 <p align="center">
